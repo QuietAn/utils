@@ -1,0 +1,306 @@
+[
+    {
+        "_type": {
+            "buckets": [
+                {
+                    "doc_count": 2318815,
+                    "key": "static"
+                },
+                {
+                    "doc_count": 1487756,
+                    "key": "dynamic"
+                }
+            ],
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0
+        },
+        "doc_count": 3806849,
+        "key": 1561910400000,
+        "key_as_string": "2019-07-01T00:00:00.000+08:00"
+    },
+    {
+        "_type": {
+            "buckets": [
+                {
+                    "doc_count": 2655794,
+                    "key": "static"
+                },
+                {
+                    "doc_count": 2025358,
+                    "key": "dynamic"
+                }
+            ],
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0
+        },
+        "doc_count": 4681694,
+        "key": 1561996800000,
+        "key_as_string": "2019-07-02T00:00:00.000+08:00"
+    },
+    {
+        "_type": {
+            "buckets": [
+                {
+                    "doc_count": 2665198,
+                    "key": "static"
+                },
+                {
+                    "doc_count": 2092592,
+                    "key": "dynamic"
+                }
+            ],
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0
+        },
+        "doc_count": 4757979,
+        "key": 1562083200000,
+        "key_as_string": "2019-07-03T00:00:00.000+08:00"
+    },
+    {
+        "_type": {
+            "buckets": [
+                {
+                    "doc_count": 2799941,
+                    "key": "static"
+                },
+                {
+                    "doc_count": 2225632,
+                    "key": "dynamic"
+                }
+            ],
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0
+        },
+        "doc_count": 5025653,
+        "key": 1562169600000,
+        "key_as_string": "2019-07-04T00:00:00.000+08:00"
+    },
+    {
+        "_type": {
+            "buckets": [
+                {
+                    "doc_count": 2603623,
+                    "key": "static"
+                },
+                {
+                    "doc_count": 2085556,
+                    "key": "dynamic"
+                }
+            ],
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0
+        },
+        "doc_count": 4689258,
+        "key": 1562256000000,
+        "key_as_string": "2019-07-05T00:00:00.000+08:00"
+    },
+    {
+        "_type": {
+            "buckets": [
+                {
+                    "doc_count": 1118534,
+                    "key": "static"
+                },
+                {
+                    "doc_count": 937642,
+                    "key": "dynamic"
+                }
+            ],
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0
+        },
+        "doc_count": 2056180,
+        "key": 1562342400000,
+        "key_as_string": "2019-07-06T00:00:00.000+08:00"
+    },
+    {
+        "_type": {
+            "buckets": [
+                {
+                    "doc_count": 1048950,
+                    "key": "static"
+                },
+                {
+                    "doc_count": 902584,
+                    "key": "dynamic"
+                }
+            ],
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0
+        },
+        "doc_count": 1951542,
+        "key": 1562428800000,
+        "key_as_string": "2019-07-07T00:00:00.000+08:00"
+    },
+    {
+        "_type": {
+            "buckets": [
+                {
+                    "doc_count": 3670789,
+                    "key": "static"
+                },
+                {
+                    "doc_count": 2865454,
+                    "key": "dynamic"
+                }
+            ],
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0
+        },
+        "doc_count": 6536366,
+        "key": 1562515200000,
+        "key_as_string": "2019-07-08T00:00:00.000+08:00"
+    },
+    {
+        "_type": {
+            "buckets": [
+                {
+                    "doc_count": 4120468,
+                    "key": "static"
+                },
+                {
+                    "doc_count": 3395313,
+                    "key": "dynamic"
+                }
+            ],
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0
+        },
+        "doc_count": 7515862,
+        "key": 1562601600000,
+        "key_as_string": "2019-07-09T00:00:00.000+08:00"
+    },
+    {
+        "_type": {
+            "buckets": [
+                {
+                    "doc_count": 4562054,
+                    "key": "static"
+                },
+                {
+                    "doc_count": 3873882,
+                    "key": "dynamic"
+                }
+            ],
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0
+        },
+        "doc_count": 8435955,
+        "key": 1562688000000,
+        "key_as_string": "2019-07-10T00:00:00.000+08:00"
+    },
+    {
+        "_type": {
+            "buckets": [
+                {
+                    "doc_count": 5710394,
+                    "key": "static"
+                },
+                {
+                    "doc_count": 4885124,
+                    "key": "dynamic"
+                }
+            ],
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0
+        },
+        "doc_count": 10595642,
+        "key": 1562774400000,
+        "key_as_string": "2019-07-11T00:00:00.000+08:00"
+    },
+    {
+        "_type": {
+            "buckets": [
+                {
+                    "doc_count": 5769695,
+                    "key": "static"
+                },
+                {
+                    "doc_count": 4810610,
+                    "key": "dynamic"
+                }
+            ],
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0
+        },
+        "doc_count": 10580413,
+        "key": 1562860800000,
+        "key_as_string": "2019-07-12T00:00:00.000+08:00"
+    },
+    {
+        "_type": {
+            "buckets": [
+                {
+                    "doc_count": 2542196,
+                    "key": "static"
+                },
+                {
+                    "doc_count": 2192810,
+                    "key": "dynamic"
+                }
+            ],
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0
+        },
+        "doc_count": 4735037,
+        "key": 1562947200000,
+        "key_as_string": "2019-07-13T00:00:00.000+08:00"
+    },
+    {
+        "_type": {
+            "buckets": [
+                {
+                    "doc_count": 2427848,
+                    "key": "static"
+                },
+                {
+                    "doc_count": 2047506,
+                    "key": "dynamic"
+                }
+            ],
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0
+        },
+        "doc_count": 4475374,
+        "key": 1563033600000,
+        "key_as_string": "2019-07-14T00:00:00.000+08:00"
+    },
+    {
+        "_type": {
+            "buckets": [
+                {
+                    "doc_count": 6681254,
+                    "key": "static"
+                },
+                {
+                    "doc_count": 4562231,
+                    "key": "dynamic"
+                }
+            ],
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0
+        },
+        "doc_count": 11243731,
+        "key": 1563120000000,
+        "key_as_string": "2019-07-15T00:00:00.000+08:00"
+    },
+    {
+        "_type": {
+            "buckets": [
+                {
+                    "doc_count": 6,
+                    "key": "dynamic"
+                },
+                {
+                    "doc_count": 5,
+                    "key": "static"
+                }
+            ],
+            "doc_count_error_upper_bound": 0,
+            "sum_other_doc_count": 0
+        },
+        "doc_count": 11,
+        "key": 1563206400000,
+        "key_as_string": "2019-07-16T00:00:00.000+08:00"
+    }
+]

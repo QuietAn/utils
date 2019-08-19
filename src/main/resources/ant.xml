@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="SunlightDataService" default="build" basedir="E:/User/Desktop/jaxb">
+	<path id="runtime.classpath">
+		<fileset dir="jaxb-2.2.11">
+			<include name="*.jar" />
+		</fileset>
+		<fileset dir="common">
+			<include name="*.jar" />
+		</fileset>
+	</path>
+	<path id="xjc.classpath">
+		<fileset dir="plugin">
+			<include name="jaxb2-basics-tools-0.6.5.jar" />
+			<include name="jaxb-xew-plugin-1.10.jar" />
+		</fileset>
+	</path>
+	<taskdef name="xjc" classname="com.sun.tools.xjc.XJCTask">
+		<classpath>
+			<path refid="runtime.classpath" />
+		</classpath>
+	</taskdef>
+	<target name="build">
+		<!-- 创建Model目录-->
+		<mkdir dir="target" />
+
+		<!--destdir:输出路径  package:包   <schema dir：xsd路径  includes：文件名s-->
+		<xjc destdir="target" package="com.xml.gt3.hxzg_zs_10007" 
+			extension="true" removeOldOutput="yes">
+			<schema dir="xsd/HXZG_ZS_10007" includes="TaxMLBw_HXZG_*_R*.xsd" />
+
+			<classpath refid="xjc.classpath" />
+			<arg value="-Xxew" />
+		</xjc>
+	</target>
+</project>

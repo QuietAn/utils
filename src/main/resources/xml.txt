@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<taxML xsi:type="HXZGSB10119Response" xmlns="http://www.chinatax.gov.cn/dataspec/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<sbxxGrid>
+		<sbxxGridlb>
+			<zsxmDm>10104</zsxmDm>
+			<zspmDm>101040001</zspmDm>
+			<hyDm>5279</hyDm>
+			<nsqxDm>08</nsqxDm>
+			<zsdlfsDm>0</zsdlfsDm>
+			<jkqxDm>04</jkqxDm>
+			<sbqxDm>04</sbqxDm>
+			<jkqx>2019-05-31</jkqx>
+			<skssqq>2018-01-01</skssqq>
+			<skssqz>2018-12-31</skssqz>
+			<zsfsDm>100</zsfsDm>
+			<sbqx>2019-05-31</sbqx>
+			<sl1>0.25</sl1>
+			<zsl>0.0</zsl>
+			<zgswskfjDm>14690400500</zgswskfjDm>
+			<swjgDm>14690400000</swjgDm>
+			<yjse>0.0</yjse>
+			<rdzsuuid>0</rdzsuuid>
+			<rdpzuuid>20E6F10BBDF75033E053781210583104</rdpzuuid>
+			<zfsbz>0</zfsbz>
+			<ysbje>0.0</ysbje>
+			<sfysb>Y</sfysb>
+			<rdyxqq>2008-01-01 00:00:00</rdyxqq>
+			<rdyxqz>9999-12-31 00:00:00</rdyxqz>
+			<wzsyhdjsyj>0.0</wzsyhdjsyj>
+			<qzd>0.0</qzd>
+			<djxh>10114600000030774282</djxh>
+			<wzsyjsyj>0.0</wzsyjsyj>
+			<wzsyhdse>0.0</wzsyhdse>
+		</sbxxGridlb>
+	</sbxxGrid>
+	<jmxxGrid/>
+	<yjxxGrid/>
+	<sbQysdszjgxxVO>
+		<xsdfjmfd>0.0</xsdfjmfd>
+	</sbQysdszjgxxVO>
+	<fzjgxxGrid/>
+	<sbQysdsczzsyjdsbqtxxVO>
+		<zfjglb>4</zfjglb>
+		<kdsAndkxqFlag>2</kdsAndkxqFlag>
+		<jdftfzjgFlag>0</jdftfzjgFlag>
+		<jaqyYjze>0.0</jaqyYjze>
+		<sqyjje>148893.69</sqyjje>
+		<kyyjye>0.0</kyyjye>
+		<yyyjje>0.0</yyyjje>
+		<mbksehj>0.0</mbksehj>
+		<yjfsDm>01</yjfsDm>
+		<sfxwqybz>0</sfxwqybz>
+		<yjfs>1</yjfs>
+		<sbqylx>2</sbqylx>
+		<yqsbBz>N</yqsbBz>
+		<yqsbMes/>
+		<synXclEjFzjg>Y</synXclEjFzjg>
+	</sbQysdsczzsyjdsbqtxxVO>
+</taxML>
